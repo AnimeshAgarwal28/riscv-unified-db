@@ -1248,7 +1248,6 @@ class GasTestGenerator:
         
         return ext
     
-
     def _build_march_string(self, base_arch: str, extension: str, extra_extensions: Set[str] | None = None) -> str:
         classification = self.example_generator.extension_classification
         standard_exts = classification['standard']
