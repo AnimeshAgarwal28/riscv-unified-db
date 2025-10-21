@@ -426,10 +426,6 @@ class AssemblyExampleGenerator:
                 elif isinstance(item, dict):
                     self._extract_extensions_from_complex(item, all_extensions)
     
-
-    
-
-    
     def _get_operand_replacements(self, inst_name: str, assembly: str, variant_index: int) -> Dict[str, str]:
         """Generate operand replacements based on instruction requirements"""
         i = variant_index
