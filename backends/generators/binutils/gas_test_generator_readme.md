@@ -40,7 +40,7 @@ python3 gas_test_generator.py --extensions "i,m,a,f,d,zba,zbb"
 ### Custom Output Directory
 
 ```bash
-python3 gas_test_generator.py --include-all --output-dir gas_tests
+python3 gas_test_generator.py --include-all --output-dir my_riscv_tests
 ```
 
 ### Verbose Output
