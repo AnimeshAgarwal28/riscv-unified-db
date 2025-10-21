@@ -10,7 +10,7 @@ The generator attempts to revolutionize RISC-V extension testing by:
 - **Matching binutils conventions** with Risc-V architecture
 - **Generating realistic assembly examples** with multiple operand combinations
 - **Creating comprehensive error cases** for negative testing
-- **Eliminating manual test creation** specially for new RISC-V extensions
+- **Eliminating manual test creation** especially for new RISC-V extensions
 
 ### Generated Test Files
 
