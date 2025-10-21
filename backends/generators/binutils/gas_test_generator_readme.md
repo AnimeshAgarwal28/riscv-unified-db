@@ -7,7 +7,7 @@ This tool automatically generates, binutils test files for the GNU Assembler (ga
 The generator attempts to revolutionize RISC-V extension testing by:
 
 - **Automatically discovering** extension patterns from the unified database
-- **Matching binutils conventions** with Risc-V architecture
+- **Matching binutils conventions** with RISC-V architecture
 - **Generating realistic assembly examples** with multiple operand combinations
 - **Creating comprehensive error cases** for negative testing
 - **Eliminating manual test creation** especially for new RISC-V extensions
